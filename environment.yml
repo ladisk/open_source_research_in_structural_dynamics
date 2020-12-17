@@ -1,0 +1,15 @@
+name: env-py
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - pip:
+    - lvm_read
+    - pyFRF
+    - pyEMA
+    - pyidi
+    - FLife
+    - pyuff
