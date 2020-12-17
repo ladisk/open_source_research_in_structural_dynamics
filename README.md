@@ -11,7 +11,7 @@ The tutorial was prepared for the [IMAC XXXVIII conference, February 8-11, 2021]
 
 ## Code
 
-You can find the executable totorial notebook in the ["A Hands-on Tutorial on Open-Source Research in Structural Dynamics and Image-Based Experimental Modal Analysis"](./Open-Source%20Research%20in%20Structural%20Dynamics%2C%20Image-Based%20Experimental%20Modal%20Analysis.ipynb) file.
+You can find the executable totorial notebook in the ["Open-Source Research in Structural Dynamics, Image-Based Experimental Modal Analysis"](./Open-Source%20Research%20in%20Structural%20Dynamics%2C%20Image-Based%20Experimental%20Modal%20Analysis.ipynb) file.
 
 To execute this tutorial online, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ladisk/open_source_research_in_structural_dynamics/master)
 
