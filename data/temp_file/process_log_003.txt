@@ -1,0 +1,6 @@
+cih_file: data/camera.cih
+token: 003
+points_filename: data\temp_file\points.pkl
+disp_filename: data\temp_file\disp_003.pkl
+disp_shape: (2, 3750, 2)
+analysis_run <0>: finished: 2020-12-22 07:14:56.218972	last time point: 570
