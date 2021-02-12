@@ -15,4 +15,8 @@ You can find the executable totorial notebook in the ["Open-Source Research in S
 
 To execute this tutorial online, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ladisk/open_source_research_in_structural_dynamics/master)
 
+## Video presentation
+
+The full tutorial video, as presented at IMAC 39i, is [accessible here](https://youtu.be/AYnucOJSuJs).
+
 [![](http://www.ladisk.si/data/pic/Summer%20School%20on%20High-speed%20Image%20Based%20Experimental%20Modal%20Analysis%20&%20Open%20Source%20Tools%202021.png)](http://www.ladisk.si/imageEMASummer.php)
