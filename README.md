@@ -1,6 +1,6 @@
-# A hands-on tutorial on open source research in structural dynamics and image-based experimental modal analysis
+# A hands-on tutorial on open source research in structural dynamics
 
-The tutorial was prepared for the [IMAC XXXVIII conference, February 8-11, 2021](https://sem.org/imac)
+The tutorial was prepared for the [IMAC XL conference, February 7-10, 2022](https://sem.org/imac)
 
 ## Contents
 
@@ -11,12 +11,12 @@ The tutorial was prepared for the [IMAC XXXVIII conference, February 8-11, 2021]
 
 ## Code
 
-You can find the executable totorial notebook in the ["Open-Source Research in Structural Dynamics, Image-Based Experimental Modal Analysis"](./Open-Source%20Research%20in%20Structural%20Dynamics%2C%20Image-Based%20Experimental%20Modal%20Analysis.ipynb) file.
+You can find the executable totorial notebook in the ["Open-Source Research in Structural Dynamics"](./Open-Source%20Research%20in%20Structural%20Dynamics.ipynb) file.
 
 To execute this tutorial online, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ladisk/open_source_research_in_structural_dynamics/master)
 
 ## Video presentation
 
-The full tutorial video, as presented at IMAC 39i, is [accessible here](https://youtu.be/AYnucOJSuJs).
+The full tutorial video, as presented at IMAC-XL, is [accessible here]().
 
-[![](http://www.ladisk.si/data/pic/Summer%20School%20on%20High-speed%20Image%20Based%20Experimental%20Modal%20Analysis%20&%20Open%20Source%20Tools%202021.png)](http://www.ladisk.si/imageEMASummer.php)
+The last year's tutorial video, as presented at IMAC 39i, is [accessible here](https://youtu.be/AYnucOJSuJs).

@@ -6,8 +6,9 @@ notebook
 ipywidgets
 lvm_read
 pyFRF>=0.40
-pyidi>=0.21
-pyEMA>=0.22
-FLife
-pyExSi
-pyuff
+pyidi>=0.25
+pyEMA>=0.23
+FLife>=1.2
+pyExSi>=0.42
+pyuff>=1.23
+pyFBS>=0.2.2 

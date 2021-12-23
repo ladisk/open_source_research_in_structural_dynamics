@@ -13,3 +13,5 @@ dependencies:
     - pyidi
     - FLife
     - pyuff
+    - pyExSi
+    - pyFBS

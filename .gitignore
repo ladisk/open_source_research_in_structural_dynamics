@@ -69,7 +69,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+docs/build/
 
 # PyBuilder
 .pybuilder/
@@ -138,3 +138,5 @@ dmypy.json
 cython_debug/
 
 *.lvm.pkl
+
+.vscode/
