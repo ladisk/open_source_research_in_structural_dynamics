@@ -2,3 +2,4 @@
 - Klemen
 - Aleš
 - Domen O.
+- Domen
