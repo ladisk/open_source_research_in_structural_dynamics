@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Open-Source Strtuctual Dynamics Zutorial's documentation!
+Welcome to the Open-Source Strtuctual Dynamics Tutorial's documentation!
 ========================================================================
 
 .. toctree::
@@ -12,6 +12,7 @@ Welcome to the Open-Source Strtuctual Dynamics Zutorial's documentation!
 
    getting_started
    contributors
+   code
 
 
 Indices and tables

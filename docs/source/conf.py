@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 project = 'A hands-on tutorial on open-source research in structural dynamics'
 copyright = '2022, Janko Slavič, Domen Gorjup, Klemen Zaletelj'
-author = 'Janko Slavič, Domen Gorjup, Klemen Zaletelj'
+author = 'Janko Slavič, Domen Gorjup, Klemen Zaletelj, Aleš Zorman, Domen Ocepek'
 
 # The short X.Y version
 version = ''
@@ -137,7 +137,7 @@ latex_documents = [
         master_doc, 
         'OpenSource_SD.tex', 
         'Open-Source STructural Dynamics tutorial Documentation',
-     'Janko Slavič, Domen Gorjup, Klemen Zaletelj', 'manual'),
+     'Janko Slavič, Domen Gorjup, Klemen Zaletelj, Aleš Zorman, Domen Ocepek', 'manual'),
 ]
 
 

@@ -1,2 +1,4 @@
 - Janko
 - Klemen
+- Aleš
+- Domen O.

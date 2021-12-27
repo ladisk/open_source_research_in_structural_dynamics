@@ -25,7 +25,7 @@ is as follows.
       $ git clone ttps://github.com/ladisk/open_source_research_in_structural_dynamics.git
       $ cd open_source_research_in_structural_dynamics
 
-* Create a branch for local development:
+* (OPTIONAL) Create a branch for local development:
 
   .. code-block:: console
 
